@@ -11,3 +11,6 @@ Developed an end-to-end IoT flood monitoring system. Wired and configured ESP32 
 
 MobileEssentials E-Commerce Store
 Built a complete online mobile accessories store using the CodeIgniter framework. Engineered a user-friendly product catalog and shopping cart, alongside a secure administrative dashboard featuring full CRUD operations for inventory and order management.
+<img width="1913" height="1037" alt="image" src="https://github.com/user-attachments/assets/c8d2129f-11c7-4fe0-b068-8034c254806d" />
+<img width="1918" height="1032" alt="image" src="https://github.com/user-attachments/assets/8eb8080b-52ba-483c-98f2-6c86000ea7a2" />
+<img width="1900" height="1026" alt="image" src="https://github.com/user-attachments/assets/63029227-4ac9-4531-bbe7-91c5f9679037" />
