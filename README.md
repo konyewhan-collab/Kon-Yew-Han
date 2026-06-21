@@ -1,3 +1,4 @@
+<img width="1641" height="842" alt="Screenshot 2026-06-18 190123" src="https://github.com/user-attachments/assets/6ce1691f-001b-4aeb-b317-6cdf8dcf86e5" />
 # Hi, I'm Kon Yew Han 👋
 A dedicated Computer Science undergraduate specializing in full-stack web development and Internet of Things (IoT) hardware integration. I am passionate about building centralized dashboards and bringing hardware to life through code.
 
